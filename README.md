@@ -20,8 +20,6 @@ Skills: Python,SQL,Pandas,Numpy,Matplotlib,Seaborn,Tenserflow,Keras .
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uchilmayur)  
 
-![GitHub metrics](https://metrics.lecoq.io/uchilmayur)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uchilmayur)  
 
 ![Profile views](https://gpvc.arturio.dev/uchilmayur)  
