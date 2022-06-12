@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Mayur Uchil
 #### I aspire to become a Data Scientist.
+![I aspire to become a Data Scientist.](https://github.com/uchilmayur/uchilmayur/blob/main/Today%2C%2Bdata%2Bis%2Beverything.jpg)
+
 I dabble with data, machine learning,DL,NLP in order to tackle real world problems
 
 Skills: Python,SQL,Pandas,Numpy,Matplotlib,Seaborn,Tenserflow,Keras .
