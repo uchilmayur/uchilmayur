@@ -2,7 +2,7 @@
 #### I aspire to become a Data Scientist.
 ![I aspire to become a Data Scientist.](https://github.com/uchilmayur/uchilmayur/blob/main/Today%2C%2Bdata%2Bis%2Beverything_.jpg)
 
-I dabble with data, machine learning,DL,NLP in order to tackle real world problems
+I dabble with data with the help of machine learning,DL,NLP in order to tackle real world problems
 
 Skills: Python,SQL,Pandas,Numpy,Matplotlib,Seaborn,Tenserflow,Keras .
 
