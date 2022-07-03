@@ -17,9 +17,7 @@ Skills: Python,SQL,Pandas,Numpy,Matplotlib,Seaborn,Tenserflow,Keras .
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchilmayur)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uchilmayur&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uchilmayur)  
-
+  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uchilmayur)  
 
 ![Profile views](https://gpvc.arturio.dev/uchilmayur)  
